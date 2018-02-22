@@ -27,6 +27,7 @@ public class MarioSideScroller extends ApplicationAdapter {
 	TiledMap tiledMap;
 	TiledMapRenderer tiledMapRenderer;
 	Sprite player;
+	Sprite Test;
 	private Sound coin;
 	private Sound death;
 	private Music bgm;
