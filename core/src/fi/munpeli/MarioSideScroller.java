@@ -38,6 +38,7 @@ public class MarioSideScroller extends ApplicationAdapter {
 	int coinCooldown = 30;
 
 	// höhööööö
+    // hahee
 	
 	@Override
 	public void create () {
