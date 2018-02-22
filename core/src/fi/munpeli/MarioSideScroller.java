@@ -36,6 +36,8 @@ public class MarioSideScroller extends ApplicationAdapter {
 	boolean deathsounded = true;
 	boolean coinSoundActive = false;
 	int coinCooldown = 30;
+
+	// höhööööö
 	
 	@Override
 	public void create () {
